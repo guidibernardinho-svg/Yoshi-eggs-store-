@@ -1,0 +1,28 @@
+{
+  "storeInfo": {
+    "title": "Yoshi Eggs Store",
+    "author": "SeuNome",
+    "description": "Loja BR de homebrews para 3DS",
+    "url": "https://raw.githubusercontent.com/SEUUSER/yoshi-eggs-store/main/apps.json"
+  },
+  "apps": [
+    {
+      "title": "Checkpoint",
+      "description": "Gerenciador de saves",
+      "author": "FlagBrew",
+      "version": "3.7.4",
+      "icon": "https://raw.githubusercontent.com/SEUUSER/yoshi-eggs-store/main/icons/checkpoint.png",
+      "download": "https://github.com/FlagBrew/Checkpoint/releases/latest/download/Checkpoint.cia",
+      "category": "tools"
+    },
+    {
+      "title": "FTPD",
+      "description": "Transferência de arquivos via Wi-Fi",
+      "author": "mtheall",
+      "version": "3.0.1",
+      "icon": "https://raw.githubusercontent.com/SEUUSER/yoshi-eggs-store/main/icons/ftpd.png",
+      "download": "https://github.com/mtheall/ftpd/releases/latest/download/ftpd.cia",
+      "category": "tools"
+    }
+  ]
+}
